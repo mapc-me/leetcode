@@ -5,8 +5,8 @@
 
 ### Problems
 
-* Sliding window [P1438]
+### Notes ()
+Need to refresh memory about sorted queue, tree sets (maps) [P1438|M|4] <br>
+Interesting [Dutch algorithm](https://en.wikipedia.org/wiki/Dutch_national_flag_problem) [P75|M|0] <br>
+[P75|M|1] <br>
 
-
-### Notes
-Need to refresh memory about sorted queue, tree sets (maps) [P1438]
