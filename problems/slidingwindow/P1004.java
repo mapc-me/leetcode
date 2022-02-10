@@ -1,13 +1,15 @@
+package slidingwindow;
+
 public class P1004 {
     public int longestOnes(int[] nums, int k) {
         int answer = 0;
         int currentAnswer = 0;
         int l = 0;
         boolean kIsNull = k == 0;
-        for (int r = 0 ; r < nums.length;) {
+        for (int r = 0; r < nums.length; ) {
             if (nums[r] == 1) {
                 currentAnswer += 1;
-                r ++;
+                r++;
                 continue;
             }
 
@@ -16,7 +18,7 @@ public class P1004 {
                     answer = currentAnswer;
                 }
                 currentAnswer = 0;
-                r ++;
+                r++;
                 continue;
             }
 
@@ -27,14 +29,14 @@ public class P1004 {
                 if (nums[l] == 0) {
                     k += 1;
                 }
-                l ++;
-                currentAnswer --;
+                l++;
+                currentAnswer--;
             }
 
             if (nums[r] == 0 && k > 0) {
-                k --;
+                k--;
                 currentAnswer += 1;
-                r ++;
+                r++;
             }
         }
         if (currentAnswer > answer) {

@@ -1,15 +1,11 @@
-import java.util.HashSet;
-import java.util.LinkedHashSet;
-import java.util.Map;
-import java.util.Set;
-import java.util.SortedSet;
+package slidingwindow;
+
 import java.util.TreeMap;
-import java.util.TreeSet;
 
 public class P1438 {
 
     public static void main(String[] args) {
-        int[] arr = {2,3,4,1,1};
+        int[] arr = {2, 3, 4, 1, 1};
         System.out.println(longestSubarray(arr, 0));
     }
 

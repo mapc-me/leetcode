@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
+package slidingwindow;
 
 public class P75 {
     public void sortColors(int[] nums) {
