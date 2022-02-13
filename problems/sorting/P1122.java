@@ -46,7 +46,7 @@ public class P1122 {
     }
 
 
-    // O(N) with hash map
+    // O(N log n) with hash map
     public static int[] fasterRelativeSortArray(int[] arr1, int[] arr2) {
         Set<Integer> arr2Numbers = new LinkedHashSet<>();
         Map<Integer, Integer> crossNumbersCounterMap = new HashMap<>();
@@ -56,7 +56,6 @@ public class P1122 {
         for (Integer number : arr2) {
             arr2Numbers.add(number);
         }
-
         for (Integer number : arr1) {
 
             if (arr2Numbers.contains(number)) {
