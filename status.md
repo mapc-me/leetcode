@@ -14,6 +14,6 @@ Interesting [Dutch algorithm](https://en.wikipedia.org/wiki/Dutch_national_flag_
 [slidingwindow.P75|M|1] <br>
 Could be faster [slidingwindow.P424|M|2] <br>
 Problem with remember formula [slidingwindow.P713|M|2]
-Difficult to determine conditions [sorting.P56|M|3]
-Need for realization with hashmap (faster) [sorting.P1122|E|1]
-New knowledge about prefix sum [sorting.P560|M|3] (need send solution after a while)
+Difficult to determine conditions [sorting.mergeintervals.P56|M|3]
+Need for realization with hashmap (faster) [sorting.othersorting.P1122|E|1]
+New knowledge about prefix sum [sorting.prefixsum.P560|M|3] (need send solution after a while)

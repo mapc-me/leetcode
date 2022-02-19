@@ -1,4 +1,4 @@
-package sorting;
+package sorting.cyclicsort;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
