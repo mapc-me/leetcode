@@ -17,7 +17,7 @@
     - [X] [209. Minimum Size Subarray Sum `[M]`](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 - [ ] Two pointers
-    - [ ] [15. 3Sum `[M]`](https://leetcode.com/problems/3sum/)
+    - [X] [15. 3Sum `[M]`](https://leetcode.com/problems/3sum/)
     - [ ] [16. 3Sum Closest `[M]`](https://leetcode.com/problems/3sum-closest/)
     - [ ] [19. Remove Nth Node From End of List `[M]`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
     - [ ] [809. Expressive Words `[M]`](https://leetcode.com/problems/expressive-words/)
@@ -25,7 +25,7 @@
     - [ ] [31. Next Permutation `[M]`](https://leetcode.com/problems/next-permutation/)
 
 - [ ] Union-find
-    - [ ] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+    - [X] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
     - [ ] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
     - [ ] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 
@@ -61,3 +61,4 @@ Problem with remember formula `[P713|M|2]` <br>
 Difficult to determine conditions `[P56|M|3]` <br>
 Need for realization with hashmap (faster) `[P1122|E|1]` <br>
 New knowledge about prefix sum `[P560|M|3]` (need send solution after a while) <br>
+Should be resolved again after a while `[P15|M|2]`
