@@ -21,7 +21,7 @@
     - [ ] [16. 3Sum Closest `[M]`](https://leetcode.com/problems/3sum-closest/)
     - [X] [19. Remove Nth Node From End of List `[M]`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
     - [ ] [809. Expressive Words `[M]`](https://leetcode.com/problems/expressive-words/)
-    - [ ] [680. Valid Palindrome II `[E]`](https://leetcode.com/problems/valid-palindrome-ii/)
+    - [X] [680. Valid Palindrome II `[E]`](https://leetcode.com/problems/valid-palindrome-ii/)
     - [ ] [31. Next Permutation `[M]`](https://leetcode.com/problems/next-permutation/)
 
 - [ ] Union-find
