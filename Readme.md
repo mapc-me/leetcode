@@ -6,6 +6,7 @@
 - 13.02.22 3/12/1
 - 19.02.22 6/16/2
 - 11.04.22 7/19/2
+- 14.04.22 7/20/2
 
 ### Units and tasks
 
@@ -23,7 +24,7 @@
     - [X] [19. Remove Nth Node From End of List `[M]`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
     - [ ] [809. Expressive Words `[M]`](https://leetcode.com/problems/expressive-words/)
     - [X] [680. Valid Palindrome II `[E]`](https://leetcode.com/problems/valid-palindrome-ii/)
-    - [ ] [31. Next Permutation `[M]`](https://leetcode.com/problems/next-permutation/)
+    - [X] [31. Next Permutation `[M]`](https://leetcode.com/problems/next-permutation/)
 
 - [ ] Union-find
     - [X] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
