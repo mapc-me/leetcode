@@ -7,6 +7,8 @@
 - 19.02.22 6/16/2
 - 11.04.22 7/19/2
 - 14.04.22 7/20/2
+- 01.06.22 8/21/2
+- 02.06.22 9/21/2
 
 ### Units and tasks
 
@@ -53,14 +55,7 @@
         - [X] [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) `[M]`
 
 
-### Problems
-
-### Notes ()
-Need to refresh memory about sorted queue, tree sets (maps) `[P1438|M|4]` <br>
-Interesting [Dutch algorithm](https://en.wikipedia.org/wiki/Dutch_national_flag_problem) `[P75|M|0]` <br>
-Could be faster `[P424|M|2]` <br>
-Problem with remember formula `[P713|M|2]` <br>
-Difficult to determine conditions `[P56|M|3]` <br>
-Need for realization with hashmap (faster) `[P1122|E|1]` <br>
-New knowledge about prefix sum `[P560|M|3]` (need send solution after a while) <br>
-Should be resolved again after a while `[P15|M|2]`
+### Problems should be resolved again
+`[P56] - more elegant solution` <br>
+`[P974] - should be faster` <br>
+`[P238] - should be solved without additional array` <br>
