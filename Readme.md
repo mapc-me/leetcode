@@ -10,6 +10,7 @@
 - 01.06.22 8/21/2
 - 02.06.22 9/21/2
 - 03.06.22 9/22/2
+- 06.06.22 9/24/3
 
 ### Units and tasks
 
@@ -55,8 +56,30 @@
         - [X] [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `[E]`
         - [X] [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) `[M]`
 
+## Heap, Priority Queue
+
+- [ ] Two heaps
+    - [X] [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) `[H]`
+    - [ ] [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) `[H]`
+- [ ] Top k elements
+    - [ ] [355. Design Twitter](https://leetcode.com/problems/design-twitter/) `[M]`
+    - [ ] [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) `[M]`
+    - [ ] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) `[M]`
+    - [ ] [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) `[M]`
+    - [X] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) `[M]`
+    - [X] [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [ ] K-way merge
+    - [ ] [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `[H]`
+    - [ ] [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+- [ ] Intervals problems
+    - [ ] [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) `[M]`
+    - [ ] [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) `[E]`
+    - [ ] [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) `[M]`
+    - [ ] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `[M]`
+
 
 ### Problems should be resolved again
 `[P56] - more elegant solution` <br>
 `[P974] - should be faster` <br>
 `[P238] - should be solved without additional array` <br>
+`[P295] - resolve again for a while` <br>
