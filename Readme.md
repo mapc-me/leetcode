@@ -11,6 +11,7 @@
 - 02.06.22 9/21/2
 - 03.06.22 9/22/2
 - 06.06.22 10/26/3
+- 07.07.22 10/27/3
 
 ### Units and tasks
 
@@ -64,8 +65,8 @@
 - [ ] Top k elements
     - [ ] [355. Design Twitter](https://leetcode.com/problems/design-twitter/) `[M]`
     - [ ] [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) `[M]`
-    - [ ] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) `[M]`
-    - [ ] [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) `[M]`
+    - [X] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) `[M]`
+    - [X] [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) `[M]`
     - [X] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) `[M]`
     - [X] [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [ ] K-way merge
@@ -83,3 +84,4 @@
 `[P974] - should be faster` <br>
 `[P238] - should be solved without additional array` <br>
 `[P295] - resolve again for a while` <br>
+`[P621] - resolve again for a while (was too difficult, make sence to see the best solution)` <br>
