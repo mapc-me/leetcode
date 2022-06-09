@@ -13,6 +13,7 @@
 - 06.06.22 10/26/3
 - 07.06.22 10/27/3
 - 08.06.22 10/29/4
+- 09.06.22 11/31/4
 
 ### Units and tasks
 
@@ -44,10 +45,10 @@
     - [X] Other sortings
         - [X] [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) `[E]`
         - [ ] [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) `[M]` {List}
-    - [ ] Merge intervals
+    - [X] Merge intervals
         - [X] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `[M]`
-        - [ ] [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) `[M]`
-        - [ ] [57. Insert Interval](https://leetcode.com/problems/insert-interval/) `[M]`
+        - [X] [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) `[M]`
+        - [X] [57. Insert Interval](https://leetcode.com/problems/insert-interval/) `[M]`
     - [ ] Prefix sum
         - [X] [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) `[M]`
         - [ ] [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) `[M]`
@@ -63,7 +64,7 @@
 - [ ] Two heaps
     - [X] [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) `[H]`
     - [ ] [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) `[H]`
-- [ ] Top k elements
+- [X] Top k elements
     - [X] [355. Design Twitter](https://leetcode.com/problems/design-twitter/) `[M]`
     - [X] [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) `[M]`
     - [X] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) `[M]`
@@ -87,3 +88,7 @@
 `[P295] - resolve again for a while` <br>
 `[P621] - resolve again for a while (was too difficult, make sence to see the best solution)` <br>
 `[P355] - resolve again for a while` <br>
+`[P57] - make up another solution` <br>
+
+### Topics need theory and more attention
+`Merge intervals`
