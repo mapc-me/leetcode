@@ -14,6 +14,7 @@
 - 07.06.22 10/27/3
 - 08.06.22 10/29/4
 - 09.06.22 11/32/4
+- 10.06.22 11/33/4
 
 ### Units and tasks
 
@@ -74,11 +75,11 @@
 - [ ] K-way merge
     - [ ] [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `[H]`
     - [ ] [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
-- [ ] Intervals problems
-    - [ ] [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) `[M]`
-    - [ ] [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) `[E]`
-    - [ ] [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) `[M]`
-    - [ ] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `[M]`
+- [X] Intervals problems
+    - [ ] **Premium** [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) `[M]`
+    - [ ] **Premium** [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) `[E]`
+    - [X] [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) `[M]`
+    - [X] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `[M]`
 
 
 ### Problems should be resolved again

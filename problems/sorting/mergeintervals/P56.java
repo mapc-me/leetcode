@@ -3,6 +3,7 @@ package sorting.mergeintervals;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.PriorityQueue;
 
 public class P56 {
 
@@ -65,5 +66,50 @@ public class P56 {
             i++;
         }
         return intResult;
+    }
+
+    public int[][] heapSolution(int[][] intervals) {
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        PriorityQueue<int[]> heap = new PriorityQueue<>((int[] a, int[] b) -> b[1] - a[1]);
+
+        List<int[]> answer = new ArrayList<>();
+
+        for (int[] interval : intervals) {
+            if (heap.isEmpty() || heap.peek()[1] >= interval[0]) {
+                heap.offer(interval);
+            }
+
+            if (heap.peek()[1] < interval[0]) {
+                int[] newInterval = new int[2];
+                newInterval[0] = Integer.MAX_VALUE;
+
+                while (!heap.isEmpty()) {
+                    int[] currentInterval = heap.poll();
+                    newInterval[1] = Math.max(newInterval[1], currentInterval[1]);
+                    newInterval[0] = Math.min(newInterval[0], currentInterval[0]);
+                }
+                answer.add(newInterval);
+                heap.offer(interval);
+            }
+        }
+
+        if (!heap.isEmpty()) {
+            int[] newInterval = new int[2];
+            newInterval[0] = Integer.MAX_VALUE;
+
+            while(!heap.isEmpty()) {
+                int[] currentInterval = heap.poll();
+                newInterval[1] = Math.max(newInterval[1], currentInterval[1]);
+                newInterval[0] = Math.min(newInterval[0], currentInterval[0]);
+            }
+            answer.add(newInterval);
+        }
+
+        int[][] result = new int[answer.size()][2];
+        for (int i = 0; i < answer.size(); i ++) {
+            result[i][0] = answer.get(i)[0];
+            result[i][1] = answer.get(i)[1];
+        }
+        return result;
     }
 }
