@@ -16,6 +16,7 @@
 - 09.06.22 11/32/4
 - 10.06.22 11/33/4
 - 11.06.22 13/34/4
+- 13.06.22 13/35/4
 
 ### Units and tasks
 
@@ -37,7 +38,7 @@
 
 - [ ] Union-find
     - [X] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-    - [ ] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+    - [X] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
     - [ ] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 
 - [ ] Sorting
@@ -91,6 +92,8 @@
 `[P621] - resolve again for a while (was too difficult, make sence to see the best solution)` <br>
 `[P355] - resolve again for a while` <br>
 `[P57] - make up another solution` <br>
+`[P200] - should be improved without Map.Entry` <br>
+
 
 ### Topics need theory and more attention
 `Merge intervals`
