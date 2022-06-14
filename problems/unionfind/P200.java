@@ -1,7 +1,5 @@
 package unionfind;
 
-import java.util.*;
-
 public class P200 {
 
     public static void main(String[] args) {
@@ -11,94 +9,91 @@ public class P200 {
 //                {'1', '1', '0', '0', '0'},
 //                {'0', '0', '0', '0', '0'}
 //        };
-//        char[][] grid = {
-//                {'1', '1', '0', '0', '0'},
-//                {'1', '1', '0', '0', '0'},
-//                {'0', '0', '1', '0', '0'},
-//                {'0', '0', '0', '1', '1'}
-//        };
         char[][] grid = {
-                {'0'}
+                {'1', '1', '0', '0', '0'},
+                {'1', '1', '0', '0', '0'},
+                {'0', '0', '1', '0', '0'},
+                {'0', '0', '0', '1', '1'}
         };
+//        char[][] grid = {
+//                {'0'}
+//        };
+//        char[][] grid = {{
+//                '1', '0', '0', '1', '1'}, {
+//                '1', '0', '1', '0', '0'}
+//        };
 
         System.out.println(numIslands(grid));
     }
 
     public static int numIslands(char[][] grid) {
-        Map<Map.Entry<Integer, Integer>, Map.Entry<Integer, Integer>> usedValues = new HashMap<>();
-        Set<Map.Entry<Integer, Integer>> used = new HashSet<>();
-        List<Map.Entry<Integer, Integer>> islands = new ArrayList<>();
-        for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid[i].length; j++) {
+        int n = grid.length;
+        int m = grid[0].length;
+
+        DisjointUnionSet dsu = new DisjointUnionSet(grid, n, m);
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
                 if (grid[i][j] == '0') {
                     continue;
                 }
-                islands.add(new AbstractMap.SimpleEntry<>(i, j));
+                int upCandidate = (i - 1) * m + j;
+                int downCandidate = (i + 1) * m + j;
+                int rightCandidate = i * m + j + 1;
+                int leftCandidate = i * m + j - 1;
+                int current = i * m + j;
+
+                if (i > 0 && grid[i - 1][j] == '1') {
+                    dsu.union(upCandidate, current);
+                }
+                if (i < n - 1 && grid[i + 1][j] == '1') {
+                    dsu.union(downCandidate, current);
+                }
+                if (j > 0 && grid[i][j - 1] == '1') {
+                    dsu.union(leftCandidate, current);
+                }
+                if (j < m - 1 && grid[i][j + 1] == '1') {
+                    dsu.union(rightCandidate, current);
+                }
             }
         }
-        DisjointUnionSet dsu = new DisjointUnionSet(islands);
 
-        for (Map.Entry<Integer, Integer> island : islands) {
-            AbstractMap.SimpleEntry<Integer, Integer> upCandidate = new AbstractMap.SimpleEntry<>(island.getKey() - 1, island.getValue());
-            AbstractMap.SimpleEntry<Integer, Integer> downCandidate = new AbstractMap.SimpleEntry<>(island.getKey() + 1, island.getValue());
-            AbstractMap.SimpleEntry<Integer, Integer> leftCandidate = new AbstractMap.SimpleEntry<>(island.getKey(), island.getValue() - 1);
-            AbstractMap.SimpleEntry<Integer, Integer> rightCandidate = new AbstractMap.SimpleEntry<>(island.getKey(), island.getValue() + 1);
-            if (used.contains(upCandidate)) {
-                dsu.union(upCandidate, island);
-            }
-            if (used.contains(downCandidate)) {
-                dsu.union(downCandidate, island);
-            }
-            if (used.contains(leftCandidate)) {
-                dsu.union(leftCandidate, island);
-            }
-            if (used.contains(rightCandidate)) {
-                dsu.union(rightCandidate, island);
-            }
-            used.add(island);
-        }
-
-
-        return dsu.calculateNumberOfSets();
+        return dsu.count;
     }
 
     public static class DisjointUnionSet {
-        Map<Map.Entry<Integer, Integer>, Map.Entry<Integer, Integer>> parents = new HashMap<>();
+        int[] parents;
+        int count = 0;
 
-        public DisjointUnionSet(List<Map.Entry<Integer, Integer>> islands) {
-            islands.forEach(island -> parents.put(island, island));
+        public DisjointUnionSet(char[][] grid, int n, int m) {
+            parents = new int[n * m];
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < m; j++) {
+                    if (grid[i][j] == '1') {
+                        parents[i * m + j] = i * m + j;
+                        count++;
+                    }
+                }
+            }
         }
 
-        public Map.Entry<Integer, Integer> find(Map.Entry<Integer, Integer> island) {
-            if (parents.get(island).equals(island)) {
+        public int find(int island) {
+            if (parents[island] == island) {
                 return island;
             }
-            Map.Entry<Integer, Integer> found = find(parents.get(island));
-            parents.put(island, found);
-            return found;
+            return parents[island] = find(parents[island]);
         }
 
-        public void union(Map.Entry<Integer, Integer> x, Map.Entry<Integer, Integer> y) {
-            Map.Entry<Integer, Integer> xIsland = find(x);
-            Map.Entry<Integer, Integer> yIsland = find(y);
+        public void union(int x, int y) {
+            int xIsland = find(x);
+            int yIsland = find(y);
 
-            if (xIsland.equals(yIsland)) {
+            if (xIsland == yIsland) {
                 return;
             }
 
-            parents.put(xIsland, yIsland);
-        }
-
-        public int calculateNumberOfSets() {
-            int result = 0;
-            for (Map.Entry<Integer, Integer> value : parents.keySet()) {
-                if (value.equals(parents.get(value))) {
-                    result++;
-                }
-            }
-            return result;
+            count--;
+            parents[xIsland] = yIsland;
         }
     }
-
-
 }
