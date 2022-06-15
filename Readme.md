@@ -17,6 +17,7 @@
 - 10.06.22 11/33/4
 - 11.06.22 13/34/4
 - 13.06.22 13/35/4
+- 15.06.22 14/37/4
 
 ### Units and tasks
 
@@ -83,6 +84,10 @@
     - [X] [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) `[M]`
     - [X] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `[M]`
 
+## Trees
+- [ ] Binary Search Tree (BST)
+  - [X] [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) `[E]`
+  - [X] [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) `[M]`
 
 ### Problems should be resolved again
 `[P56] - more elegant solution` <br>
@@ -93,6 +98,7 @@
 `[P355] - resolve again for a while` <br>
 `[P57] - make up another solution` <br>
 `[P200] - should be improved without Map.Entry` <br>
+`[P173] - Could you implement next() and hasNext() to run in average O(1) time and use O(h) memory, where h is the height of the tree?` <br>
 
 
 ### Topics need theory and more attention
