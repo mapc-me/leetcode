@@ -1,14 +1,12 @@
 ### Leetcode Status
 
+| Month    | Start  | End    | Resolved |
+|----------|--------|--------|----------|
+| February | 2/6/1  | 6/16/2 | 4/10/1   |
+| April    | 6/16/2 | 7/20/2 | 1/4/0    |
+
 <details>
-<summary>Day progress</summary>
-30.01.22 2/6/1 <br>
-06.02.22 2/7/1 <br>
-10.02.22 2/11/1 <br>
-13.02.22 3/12/1 <br>
-19.02.22 6/16/2 <br>
-11.04.22 7/19/2 <br>
-14.04.22 7/20/2 <br>
+<summary>Current Month Day Progress</summary>
 01.06.22 8/21/2 <br>
 02.06.22 9/21/2 <br>
 03.06.22 9/22/2 <br>
@@ -90,11 +88,16 @@
     - [X] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `[M]`
 
 ## Trees
+
 - [ ] Binary Search Tree (BST)
-  - [X] [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) `[E]`
-  - [X] [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) `[M]`
+    - [X] [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) `[E]`
+    - [X] [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) `[M]`
+- [ ] Dijkstra
+    - [X] [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) `[M]`
+    - [ ] [631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)`[M]`
 
 ### Problems should be resolved again
+
 `[P56] - more elegant solution` <br>
 `[P974] - should be faster` <br>
 `[P238] - should be solved without additional array` <br>
@@ -106,6 +109,6 @@
 `[P173] - Could you implement next() and hasNext() to run in average O(1) time and use O(h) memory, where h is the height of the tree?` <br>
 `[P1031] - Dynamic programming: could be resolved O(N)` <br>
 
-
 ### Topics need theory and more attention
+
 `Merge intervals`
