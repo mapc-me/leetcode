@@ -21,6 +21,7 @@
 13.06.22 13/35/4 <br>
 15.06.22 14/37/4 <br>
 16.06.22 14/38/4 <br>
+19.06.22 14/40/4 <br>
 </details>
 
 ### Units and tasks
@@ -103,6 +104,7 @@
 `[P57] - make up another solution` <br>
 `[P200] - should be improved without Map.Entry` <br>
 `[P173] - Could you implement next() and hasNext() to run in average O(1) time and use O(h) memory, where h is the height of the tree?` <br>
+`[P1031] - Dynamic programming: could be resolved O(N)` <br>
 
 
 ### Topics need theory and more attention
