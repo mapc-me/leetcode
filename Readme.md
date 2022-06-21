@@ -46,8 +46,8 @@
     - [X] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
     - [X] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
     - [ ] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
-    - [ ] [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/submissions/)
-    - [ ] [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/)
+    - [ ] [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/submissions/) `[M]`
+    - [ ] [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) `[H]`
 
 - [ ] Sorting
     - [ ] Recursion sorting
@@ -96,6 +96,8 @@
 - [ ] Binary Search Tree (BST)
     - [X] [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) `[E]`
     - [X] [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) `[M]`
+    - [ ] [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) `[M]`
+    - [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) `[M]`
 - [ ] Dijkstra
     - [X] [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) `[M]`
     - [X] [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)`[M]`
