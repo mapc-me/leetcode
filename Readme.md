@@ -22,6 +22,7 @@
 19.06.22 14/40/4 <br>
 20.06.22 15/41/4 <br>
 21.06.22 15/42/4 <br>
+23.06.22 16/44/4 <br>
 </details>
 
 ### Units and tasks
@@ -45,7 +46,7 @@
 - [ ] Union-find
     - [X] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
     - [X] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
-    - [ ] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+    - [X] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
     - [ ] [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/submissions/) `[M]`
     - [ ] [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) `[H]`
 
@@ -101,8 +102,10 @@
 - [ ] Dijkstra
     - [X] [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) `[M]`
     - [X] [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)`[M]`
+    - [X] [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)`[M]`
+<br>//TODO add new
+- [ ] Minimum Spanning Trees/Topological Sort
     - [ ] [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)`[M]`
-    - [ ] [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)`[M]`
 
 ### Problems should be resolved again
 
