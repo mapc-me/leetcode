@@ -23,6 +23,7 @@
 20.06.22 15/41/4 <br>
 21.06.22 15/42/4 <br>
 23.06.22 17/44/4 <br>
+24.06.22 17/46/4 <br>
 </details>
 
 ### Units and tasks
@@ -37,11 +38,16 @@
 
 - [ ] Two pointers
     - [X] [15. 3Sum `[M]`](https://leetcode.com/problems/3sum/)
-    - [ ] [16. 3Sum Closest `[M]`](https://leetcode.com/problems/3sum-closest/)
+    - [X] [16. 3Sum Closest `[M]`](https://leetcode.com/problems/3sum-closest/)
     - [X] [19. Remove Nth Node From End of List `[M]`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
     - [ ] [809. Expressive Words `[M]`](https://leetcode.com/problems/expressive-words/)
     - [X] [680. Valid Palindrome II `[E]`](https://leetcode.com/problems/valid-palindrome-ii/)
     - [X] [31. Next Permutation `[M]`](https://leetcode.com/problems/next-permutation/)
+    - [ ] [26. Remove Duplicates from Sorted Array `[E]`](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
+    - [ ] [167. Two Sum II - Input Array Is Sorted`[M]`](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/)
+    - [ ] [189. Rotate Array`[M]`](https://leetcode.com/problems/rotate-array/submissions/)
+    - [ ] [125. Valid Palindrome`[E]`](https://leetcode.com/problems/valid-palindrome/)
+    - [ ] [11. Container With Most Water`[M]`](https://leetcode.com/problems/container-with-most-water/)
 
 - [ ] Union-find
     - [X] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
@@ -98,12 +104,17 @@
     - [X] [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) `[E]`
     - [X] [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) `[M]`
     - [ ] [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) `[M]`
-    - [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) `[M]`
-- [ ] Dijkstra
+    - [X] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) `[M]`
+    - [ ] [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) `[M]`
+    - [ ] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) `[H]`
+    - [ ] [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) `[M]`
+- [ ] Shortest Path (Dijkstra, Bellman Ford)
     - [X] [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) `[M]`
     - [X] [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)`[M]`
     - [X] [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)`[M]`
-<br>//TODO add new
+    - [ ] [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)`[H]`
+    - [ ] [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)`[M]`
+    - [ ] [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)`[H]`
 - [ ] Minimum Spanning Trees/Topological Sort
     - [ ] [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)`[M]`
 

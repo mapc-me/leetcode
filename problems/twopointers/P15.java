@@ -1,17 +1,12 @@
 package twopointers;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class P15 {
 
     public static void main(String[] args) {
-        int[] nums = {0,0,0,0};
+        int[] nums = {0, 0, 0, 0};
         System.out.println(threeSum(nums));
     }
 
@@ -56,7 +51,6 @@ public class P15 {
 
         return new ArrayList<>(result);
     }
-
 
 
 }
