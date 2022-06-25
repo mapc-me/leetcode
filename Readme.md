@@ -24,6 +24,7 @@
 21.06.22 15/42/4 <br>
 23.06.22 17/44/4 <br>
 24.06.22 17/46/4 <br>
+25.06.22 18/48/4 <br>
 </details>
 
 ### Units and tasks
@@ -105,7 +106,7 @@
     - [X] [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) `[M]`
     - [ ] [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) `[M]`
     - [X] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) `[M]`
-    - [ ] [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) `[M]`
+    - [X] [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) `[M]`
     - [ ] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) `[H]`
     - [ ] [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) `[M]`
 - [ ] Shortest Path (Dijkstra, Bellman Ford)
