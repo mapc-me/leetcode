@@ -1,9 +1,9 @@
 ### Leetcode Status
 
-| Month    | Start  | End    | Resolved |
-|----------|--------|--------|----------|
-| February | 2/6/1  | 6/16/2 | 4/10/1   |
-| April    | 6/16/2 | 7/20/2 | 1/4/0    |
+| Month    | Start  | End    | Resolved | Total |
+|----------|--------|--------|----------|-------|
+| February | 2/6/1  | 6/16/2 | 4/10/1   | 15    |
+| April    | 6/16/2 | 7/20/2 | 1/4/0    | 5     |
 
 <details>
 <summary>Current Month Day Progress</summary>
