@@ -119,6 +119,9 @@
     - [ ] [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)`[H]`
 - [ ] Minimum Spanning Trees/Topological Sort
     - [ ] [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)`[M]`
+- [ ] Slow Fast Pointers
+    - [X] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)`[E]`
+    - [ ] [202. Happy Number](https://leetcode.com/problems/happy-number/)`[E]`
 
 ### Problems should be resolved again
 
