@@ -25,6 +25,7 @@
 23.06.22 17/44/4 <br>
 24.06.22 17/46/4 <br>
 25.06.22 18/48/4 <br>
+26.06.22 18/50/4 <br>
 </details>
 
 ### Units and tasks
@@ -44,18 +45,18 @@
     - [ ] [809. Expressive Words `[M]`](https://leetcode.com/problems/expressive-words/)
     - [X] [680. Valid Palindrome II `[E]`](https://leetcode.com/problems/valid-palindrome-ii/)
     - [X] [31. Next Permutation `[M]`](https://leetcode.com/problems/next-permutation/)
-    - [ ] [26. Remove Duplicates from Sorted Array `[E]`](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
-    - [ ] [167. Two Sum II - Input Array Is Sorted`[M]`](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/)
+    - [X] [167. Two Sum II - Input Array Is Sorted`[M]`](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/)
     - [ ] [189. Rotate Array`[M]`](https://leetcode.com/problems/rotate-array/submissions/)
-    - [ ] [125. Valid Palindrome`[E]`](https://leetcode.com/problems/valid-palindrome/)
-    - [ ] [11. Container With Most Water`[M]`](https://leetcode.com/problems/container-with-most-water/)
+    - [X] [11. Container With Most Water`[M]`](https://leetcode.com/problems/container-with-most-water/)
+    - [ ] [42. Trapping Rain Water`[H]`](https://leetcode.com/problems/trapping-rain-water/)
+    - [ ] [923. 3Sum With Multiplicity`[M]`](https://leetcode.com/problems/3sum-with-multiplicity/)
+    - [ ] [658. Find K Closest Elements`[M]`](https://leetcode.com/problems/find-k-closest-elements/)
 
 - [ ] Union-find
     - [X] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
     - [X] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
     - [X] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
     - [ ] [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/submissions/) `[M]`
-    - [ ] [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) `[H]`
 
 - [ ] Sorting
     - [ ] Recursion sorting
