@@ -26,6 +26,7 @@
 24.06.22 17/46/4 <br>
 25.06.22 18/48/4 <br>
 26.06.22 18/50/4 <br>
+28.06.22 22/50/4 <br>
 </details>
 
 ### Units and tasks
@@ -121,7 +122,13 @@
     - [ ] [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)`[M]`
 - [ ] Slow Fast Pointers
     - [X] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)`[E]`
-    - [ ] [202. Happy Number](https://leetcode.com/problems/happy-number/)`[E]`
+    - [X] [202. Happy Number](https://leetcode.com/problems/happy-number/)`[E]`
+    - [X] [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)`[E]`
+    - [X] [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)`[E]`
+    - [ ] [143. Reorder List](https://leetcode.com/problems/reorder-list/)`[M]`
+- [ ] Binary Search
+    - [ ] [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)`[E]`
+    - [ ] [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)`[M]`
 
 ### Problems should be resolved again
 
