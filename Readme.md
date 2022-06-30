@@ -1,33 +1,13 @@
 ### Leetcode Status
 
-| Month    | Start  | End    | Resolved | Total |
-|----------|--------|--------|----------|-------|
-| February | 2/6/1  | 6/16/2 | 4/10/1   | 15    |
-| April    | 6/16/2 | 7/20/2 | 1/4/0    | 5     |
+| Month    | Start  | End     | Resolved | Total |
+|----------|--------|---------|----------|-------|
+| February | 2/6/1  | 6/16/2  | 4/10/1   | 15    |
+| April    | 6/16/2 | 7/20/2  | 1/4/0    | 5     |
+| June     | 7/20/2 | 23/53/5 | 16/33/3  | 52    |
 
 <details>
 <summary>Current Month Day Progress</summary>
-01.06.22 8/21/2 <br>
-02.06.22 9/21/2 <br>
-03.06.22 9/22/2 <br>
-06.06.22 10/26/3 <br>
-07.06.22 10/27/3 <br>
-08.06.22 10/29/4 <br>
-09.06.22 11/32/4 <br>
-10.06.22 11/33/4 <br>
-11.06.22 13/34/4 <br>
-13.06.22 13/35/4 <br>
-15.06.22 14/37/4 <br>
-16.06.22 14/38/4 <br>
-19.06.22 14/40/4 <br>
-20.06.22 15/41/4 <br>
-21.06.22 15/42/4 <br>
-23.06.22 17/44/4 <br>
-24.06.22 17/46/4 <br>
-25.06.22 18/48/4 <br>
-26.06.22 18/50/4 <br>
-28.06.22 22/50/4 <br>
-29.06.22 23/52/4 <br>
 </details>
 
 ### Units and tasks
@@ -130,6 +110,7 @@
 - [ ] Binary Search
     - [X] [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)`[E]`
     - [X] [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)`[M]`
+    - [X] [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)`H`
 
 ### Problems should be resolved again
 
@@ -148,4 +129,5 @@
 ### Topics need theory and more attention
 
 `Merge intervals` <br>
-`Binary Search`
+`Binary Search` <br>
+`Prefix Sum` <br>
