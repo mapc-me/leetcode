@@ -1,4 +1,4 @@
-package sorting.prefixsum;
+package prefixsum;
 
 import java.util.Arrays;
 
