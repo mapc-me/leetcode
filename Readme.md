@@ -8,6 +8,9 @@
 
 <details>
 <summary>Current Month Day Progress</summary>
+
+01.07.22 23/57/4 <br>
+
 </details>
 
 ### Units and tasks
@@ -31,7 +34,7 @@
     - [ ] [189. Rotate Array`[M]`](https://leetcode.com/problems/rotate-array/submissions/)
     - [X] [11. Container With Most Water`[M]`](https://leetcode.com/problems/container-with-most-water/)
     - [ ] [42. Trapping Rain Water`[H]`](https://leetcode.com/problems/trapping-rain-water/)
-    - [ ] [923. 3Sum With Multiplicity`[M]`](https://leetcode.com/problems/3sum-with-multiplicity/)
+    - [X] [923. 3Sum With Multiplicity`[M]`](https://leetcode.com/problems/3sum-with-multiplicity/)
     - [ ] [658. Find K Closest Elements`[M]`](https://leetcode.com/problems/find-k-closest-elements/)
 
 - [ ] Union-find
@@ -39,6 +42,17 @@
     - [X] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
     - [X] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
     - [ ] [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/submissions/) `[M]`
+-
+- [ ] Prefix sum
+    - [X] [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) `[M]`
+    - [ ] [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) `[M]`
+    - [X] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) `[M]`
+    - [ ] **Premium** [370. Range Addition](https://leetcode.com/problems/range-addition/) `[M]`
+    - [X] [2222. Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) `[M]`
+    - [X] [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) `[M]`
+    - [X] [1685. Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) `[M]`
+    - [X] [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) `[M]`
+    - [X] [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) `[M]`
 
 - [ ] Sorting
     - [ ] Recursion sorting
@@ -51,11 +65,6 @@
         - [X] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `[M]`
         - [X] [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) `[M]`
         - [X] [57. Insert Interval](https://leetcode.com/problems/insert-interval/) `[M]`
-    - [ ] Prefix sum
-        - [X] [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) `[M]`
-        - [ ] [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) `[M]`
-        - [X] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) `[M]`
-        - [ ] [370. Range Addition](https://leetcode.com/problems/range-addition/) `[M]`
     - [X] Cyclic sort
         - [X] [268. Missing Number](https://leetcode.com/problems/missing-number/) `[E]`
         - [X] [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `[E]`
