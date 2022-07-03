@@ -10,6 +10,7 @@
 <summary>Current Month Day Progress</summary>
 
 01.07.22 23/57/4 <br>
+03.07.22 25/58/4 <br>
 
 </details>
 
@@ -138,5 +139,5 @@
 ### Topics need theory and more attention
 
 `Merge intervals` <br>
-`Binary Search` <br>
+`Binary Search: problems with border values (set l and r)`<br>
 `Prefix Sum` <br>
