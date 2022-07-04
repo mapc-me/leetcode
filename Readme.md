@@ -17,13 +17,14 @@
 
 ### Units and tasks
 
-- [X] Sliding window
+- [ ] Sliding window
     - [X] [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit `[M]`](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
     - [X] [1004. Max Consecutive Ones III `[M]`](https://leetcode.com/problems/max-consecutive-ones-iii/)
     - [X] [239. Sliding Window Maximum `[H]`](https://leetcode.com/problems/sliding-window-maximum/)
     - [X] [424. Longest Repeating Character Replacement `[M]`](https://leetcode.com/problems/longest-repeating-character-replacement/)
     - [X] [713. Subarray Product Less Than K `[M]`](https://leetcode.com/problems/subarray-product-less-than-k/)
     - [X] [209. Minimum Size Subarray Sum `[M]`](https://leetcode.com/problems/minimum-size-subarray-sum/)
+    - [ ] [395. Longest Substring with At Least K Repeating Characters `[M]`](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
 
 - [ ] Two pointers
     - [X] [15. 3Sum `[M]`](https://leetcode.com/problems/3sum/)
