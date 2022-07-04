@@ -122,6 +122,17 @@
     - [X] [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)`[E]`
     - [X] [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)`[M]`
     - [X] [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)`H`
+    - [ ] Problems that are good for practicing handwriting binary search
+      - [ ] [275. H-Index II](https://leetcode.com/problems/h-index-ii/) `[M]`
+      - [ ] [668. Kth Smallest Number in Multiplication Table] (https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) `[H]`
+    - [ ] Problems that are easier if we just use binary search library function
+      - [ ] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) `[M]`
+    - [ ] Problems on arrays that are not sorted or monotonic
+      - [ ] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) `[M]`
+      - [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) `[M]`
+    - [ ] Problems that I had to use while (L < R)
+      - [ ] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) `[M]`
+      - [ ] [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) `[H]`
 
 ### Problems should be resolved again
 
