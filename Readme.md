@@ -138,10 +138,10 @@
 - [ ] Stack
     - [ ] [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)`[E]`
     - [X] [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)`[M]`
-    - [ ] [](https://leetcode.com/problems/maximum-sum-circular-subarray/)`[M]`
-    - [ ] [](https://leetcode.com/problems/remove-k-digits/)`[M]`
-    - [ ] [](https://leetcode.com/problems/next-greater-node-in-linked-list/)`[M]`
-    - [ ] [](https://leetcode.com/problems/largest-rectangle-in-histogram/)`[H]`
+    - [ ] [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)`[M]`
+    - [ ] [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)`[M]`
+    - [ ] [1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)`[M]`
+    - [ ] [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)`[H]`
 
 ### Problems should be resolved again
 
@@ -160,5 +160,6 @@
 ### Topics need theory and more attention
 
 `Merge intervals` <br>
-`Binary Search: problems with border values (set l and r)`<br>
+`Binary Search: problems with border values (set l and r) and NEED THEORY`<br>
 `Prefix Sum` <br>
+`Stack theory` <br>
