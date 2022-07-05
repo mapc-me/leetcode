@@ -12,6 +12,7 @@
 01.07.22 23/57/4 <br>
 03.07.22 25/58/4 <br>
 04.07.22 25/58/5 <br>
+05.07.22 25/61/6 <br>
 
 </details>
 
@@ -125,15 +126,22 @@
     - [X] [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)`H`
     - [ ] Problems that are good for practicing handwriting binary search
       - [ ] [275. H-Index II](https://leetcode.com/problems/h-index-ii/) `[M]`
-      - [ ] [668. Kth Smallest Number in Multiplication Table] (https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) `[H]`
+      - [ ] [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) `[H]`
     - [ ] Problems that are easier if we just use binary search library function
       - [ ] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) `[M]`
     - [ ] Problems on arrays that are not sorted or monotonic
-      - [ ] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) `[M]`
+      - [X] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) `[M]`
       - [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) `[M]`
     - [ ] Problems that I had to use while (L < R)
-      - [ ] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) `[M]`
+      - [X] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) `[M]`
       - [ ] [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) `[H]`
+- [ ] Stack
+    - [ ] [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)`[E]`
+    - [X] [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)`[M]`
+    - [ ] [](https://leetcode.com/problems/maximum-sum-circular-subarray/)`[M]`
+    - [ ] [](https://leetcode.com/problems/remove-k-digits/)`[M]`
+    - [ ] [](https://leetcode.com/problems/next-greater-node-in-linked-list/)`[M]`
+    - [ ] [](https://leetcode.com/problems/largest-rectangle-in-histogram/)`[H]`
 
 ### Problems should be resolved again
 
