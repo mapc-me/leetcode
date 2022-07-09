@@ -1,4 +1,4 @@
-package contest;
+package contest.biweelky81;
 
 import java.util.*;
 
