@@ -129,8 +129,8 @@
     - [ ] Problems that are good for practicing handwriting binary search
         - [ ] [275. H-Index II](https://leetcode.com/problems/h-index-ii/) `[M]`
         - [ ] [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) `[H]`
-    - [ ] Problems that are easier if we just use binary search library function
-        - [ ] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) `[M]`
+    - [X] Problems that are easier if we just use binary search library function
+        - [X] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) `[M]`
     - [ ] Problems on arrays that are not sorted or monotonic
         - [X] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) `[M]`
         - [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) `[M]`
