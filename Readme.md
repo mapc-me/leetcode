@@ -16,6 +16,7 @@
 07.07.22 25/62/7 <br>
 09.07.22 27/64/7 <br>
 10.07.22 27/68/7 <br>
+11.07.22 27/69/7 <br>
 </details>
 
 ### Units and tasks
@@ -153,12 +154,12 @@
     - [ ] [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)`M`
     - [ ] [47. Permutations II](https://leetcode.com/problems/permutations-ii)`M`
     - [ ] [77. Combinations](https://leetcode.com/problems/combinations/)`M`
-    - [ ] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)`M`
+    - [X] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)`M`
     - [ ] [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)`M`
     - [ ] [51. N-Queens](https://leetcode.com/problems/n-queens/)`H`
     - [ ] [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)`H`
     - [ ] [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)`H`
-    - [ ] [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)`M`
+    - [X] [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)`M`
 
 ### Problems should be resolved again
 
