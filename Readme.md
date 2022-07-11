@@ -158,6 +158,7 @@
     - [ ] [51. N-Queens](https://leetcode.com/problems/n-queens/)`H`
     - [ ] [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)`H`
     - [ ] [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)`H`
+    - [ ] [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)`M`
 
 ### Problems should be resolved again
 
