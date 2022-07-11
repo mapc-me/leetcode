@@ -150,6 +150,14 @@
     - [X] [46. Permutations](https://leetcode.com/problems/permutations/)`M`
     - [X] [90. Subsets II](https://leetcode.com/problems/subsets-ii/)`M`
     - [X] [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/submissions/)`M`
+    - [ ] [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)`M`
+    - [ ] [47. Permutations II](https://leetcode.com/problems/permutations-ii)`M`
+    - [ ] [77. Combinations](https://leetcode.com/problems/combinations/)`M`
+    - [ ] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)`M`
+    - [ ] [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)`M`
+    - [ ] [51. N-Queens](https://leetcode.com/problems/n-queens/)`H`
+    - [ ] [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)`H`
+    - [ ] [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)`H`
 
 ### Problems should be resolved again
 
