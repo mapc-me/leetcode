@@ -145,7 +145,7 @@
     - [ ] [1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)`[M]`
     - [ ] [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)`[H]`
 
-- [ ] Permutation
+- [ ] Permutation (subsets, backtracking)
     - [X] [78. Subsets](https://leetcode.com/problems/subsets/)`M`
     - [X] [46. Permutations](https://leetcode.com/problems/permutations/)`M`
     - [X] [90. Subsets II](https://leetcode.com/problems/subsets-ii/)`M`
