@@ -48,8 +48,16 @@
     - [X] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
     - [X] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
     - [X] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
-    - [ ] [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/submissions/) `[M]`
--
+    - [X] [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/submissions/) `[M]`
+    - [ ] [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) `[M]`
+    - [ ] [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) `[M]`
+    - [ ] [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) `[M]`
+    - [ ] [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) `[M]`
+    - [ ] [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) `[M]`
+    - [ ] [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) `[H]`
+    - [ ] [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) `[H]`
+    - [ ] [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/) `[H]`
+
 - [ ] Prefix sum
     - [X] [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) `[M]`
     - [ ] [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) `[M]`
@@ -152,7 +160,7 @@
     - [X] [90. Subsets II](https://leetcode.com/problems/subsets-ii/)`M`
     - [X] [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/submissions/)`M`
     - [ ] [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)`M`
-    - [ ] [47. Permutations II](https://leetcode.com/problems/permutations-ii)`M`
+    - [ ] **[47. Permutations II](https://leetcode.com/problems/permutations-ii)`M`**
     - [ ] [77. Combinations](https://leetcode.com/problems/combinations/)`M`
     - [X] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)`M`
     - [ ] [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)`M`
