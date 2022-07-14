@@ -138,4 +138,40 @@ public class P127 {
 
     }
 
+    public int bfcSolution(String beginWord, String endWord, Set<String> wordList) {
+        Queue<String> queue = new LinkedList<>();
+
+        int distance = 1;
+        queue.add(beginWord);
+
+        if (!wordList.contains(endWord)) {
+            return 0;
+        }
+
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            for (int j = 0; j < size; j ++) {
+                String reached = queue.poll();
+                String next;
+                for (int i = 0; i < reached.length(); i++) {
+                    char[] chars = reached.toCharArray();
+                    for (char ch = 'a'; ch <= 'z'; ch++) {
+                        chars[i] = ch;
+                        next = String.valueOf(chars);
+                        if (next.equals(endWord)) {
+                            return distance + 1;
+                        }
+                        if (wordList.contains(next)) {
+                            queue.add(next);
+                            wordList.remove(next);
+                        }
+                    }
+                }
+            }
+            distance++;
+        }
+
+        return 0;
+    }
+
 }
