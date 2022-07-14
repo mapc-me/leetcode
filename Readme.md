@@ -18,6 +18,7 @@
 10.07.22 27/68/7 <br>
 11.07.22 27/69/7 <br>
 13.07.22 27/70/7 <br>
+14.07.22 27/72/7 <br>
 </details>
 
 ### Units and tasks
@@ -50,8 +51,8 @@
     - [X] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
     - [X] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
     - [X] [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/submissions/) `[M]`
-    - [ ] [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) `[M]`
-    - [ ] [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) `[M]`
+    - [X] [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) `[M]`
+    - [X] [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) `[M]`
     - [ ] [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) `[M]`
     - [ ] [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) `[M]`
     - [ ] [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) `[M]`
