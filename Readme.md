@@ -10,19 +10,25 @@
 <details>
 <summary>Current Month Day Progress</summary>
 20.08.22 27/75/7 <br>
+21.08.22 27/77/7 <br>
 </details>
 
 ## Dynamic Programming Topic
 
 
-### Knapsack
+### 0/1 Knapsack
 
 #### Links
 
 - https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews
+- https://leetcode.com/list/50vif4uc/
+- https://gist.github.com/maximov-m/a7380f0ef2b188fc45d259cce77b4285
 
+#### Tasks
 
 - [X] [560. Subarray Sum Equals K`[M]`](https://leetcode.com/problems/subarray-sum-equals-k/)
-- [ ] [BT 416. Partition Equal Subset Sum`[M]`](https://leetcode.com/problems/partition-equal-subset-sum/)
-- [ ] [BU 416. Partition Equal Subset Sum`[M]`](https://leetcode.com/problems/partition-equal-subset-sum/)
-- [ ] [ ]()
+- [X] [TopDown 416. Partition Equal Subset Sum`[M]`](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [X] [BottomUp 416. Partition Equal Subset Sum`[M]`](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [ ] [560. Subarray Sum Equals K`[M]`](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [ ] [2035. Partition Array Into Two Arrays to Minimize Sum Difference`[H]`](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
+- [X] [494. Target Sum`[M]`](https://leetcode.com/problems/target-sum/)
