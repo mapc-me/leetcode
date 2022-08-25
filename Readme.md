@@ -11,6 +11,7 @@
 <summary>Current Month Day Progress</summary>
 20.08.22 27/75/7 <br>
 21.08.22 27/77/7 <br>
+25.08.22 27/79/7 <br>
 </details>
 
 ## Dynamic Programming Topic
@@ -32,3 +33,6 @@
 - [ ] [560. Subarray Sum Equals K`[M]`](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [ ] [2035. Partition Array Into Two Arrays to Minimize Sum Difference`[H]`](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
 - [X] [494. Target Sum`[M]`](https://leetcode.com/problems/target-sum/)
+- [X] [213. House Robber II`[M]`](https://leetcode.com/problems/house-robber-ii/)
+- [X] [650. 2 Keys Keyboard`[M]`](https://leetcode.com/problems/2-keys-keyboard/)
+- [ ] [322. Coin Change`[M]`](https://leetcode.com/problems/coin-change/)
