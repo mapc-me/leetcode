@@ -38,7 +38,7 @@
 - [X] [494. Target Sum`[M]`](https://leetcode.com/problems/target-sum/)
 - [X] [213. House Robber II`[M]`](https://leetcode.com/problems/house-robber-ii/)
 - [X] [650. 2 Keys Keyboard`[M]`](https://leetcode.com/problems/2-keys-keyboard/)
-- [ ] [474. Ones and Zeroes`[M]`](https://leetcode.com/problems/ones-and-zeroes/)
+- [X] [474. Ones and Zeroes`[M]`](https://leetcode.com/problems/ones-and-zeroes/)
 - [ ] [638. Shopping Offers`[M]`](https://leetcode.com/problems/shopping-offers/)
 - [ ] [1626. Best Team With No Conflicts`[M]`](https://leetcode.com/problems/best-team-with-no-conflicts/)
 - [ ] [518. Coin Change 2`[M]`](https://leetcode.com/problems/coin-change-2/)
