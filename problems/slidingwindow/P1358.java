@@ -1,8 +1,5 @@
 package slidingwindow;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class P1358 {
     public int numberOfSubstrings(String s) {
         int[] track = new int[3]; // 0 - 'a', 1 - 'b', 2 - 'c'
@@ -12,13 +9,13 @@ public class P1358 {
 
         int l = 0;
 
-        for (int i = 0; i < s.length(); i ++) {
-            track[s.charAt(i) - 'a'] ++;
+        for (int i = 0; i < s.length(); i++) {
+            track[s.charAt(i) - 'a']++;
 
             while (hasTriple(track)) {
                 lastOne += 1;
                 track[s.charAt(l) - 'a']--;
-                l ++;
+                l++;
             }
             ans += lastOne;
         }
