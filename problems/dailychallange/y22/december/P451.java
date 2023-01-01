@@ -1,4 +1,4 @@
-package decemberchallange;
+package dailychallange.y22.december;
 
 public class P451 {
     public String frequencySort(String s) {

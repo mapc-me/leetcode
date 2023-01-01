@@ -1,4 +1,4 @@
-package decemberchallange;
+package dailychallange.y22.december;
 
 public class P121 {
     public int maxProfit(int[] prices) {
