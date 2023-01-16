@@ -1,22 +1,11 @@
 package bst;
 
+import leetcodestructures.TreeNode;
+
 import java.util.HashSet;
 import java.util.Set;
 
 public class P173 {
-
-    public class TreeNode {
-      int val;
-      TreeNode left;
-      TreeNode right;
-      TreeNode() {}
-      TreeNode(int val) { this.val = val; }
-      TreeNode(int val, TreeNode left, TreeNode right) {
-          this.val = val;
-          this.left = left;
-          this.right = right;
-      }
-  }
 
     class BSTIterator {
         Set<TreeNode> used = new HashSet<>();

@@ -1,27 +1,8 @@
 package bst;
 
+import leetcodestructures.TreeNode;
 
 public class P669 {
-
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
-
     public TreeNode trimBST(TreeNode root, int low, int high) {
         return trim(root, low, high);
     }

@@ -25,29 +25,27 @@ public class P19 {
         }
     }
 
-    class Solution {
-        public ListNode removeNthFromEnd(ListNode head, int n) {
-            List<ListNode> indexedNodes = new ArrayList<>();
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        List<ListNode> indexedNodes = new ArrayList<>();
 
-            while (head.next != null) {
-                indexedNodes.add(head);
-                head = head.next;
-            }
+        while (head.next != null) {
             indexedNodes.add(head);
-
-            if (indexedNodes.size() == n) {
-                if (indexedNodes.size() == 1) {
-                    return null;
-                }
-                return indexedNodes.get(1);
-            }
-
-            indexedNodes.get(indexedNodes.size() - n - 1).next = n == 1
-                    ? null
-                    : indexedNodes.get(indexedNodes.size() - n + 1);
-
-            return indexedNodes.get(0);
-
+            head = head.next;
         }
+        indexedNodes.add(head);
+
+        if (indexedNodes.size() == n) {
+            if (indexedNodes.size() == 1) {
+                return null;
+            }
+            return indexedNodes.get(1);
+        }
+
+        indexedNodes.get(indexedNodes.size() - n - 1).next = n == 1
+            ? null
+            : indexedNodes.get(indexedNodes.size() - n + 1);
+
+        return indexedNodes.get(0);
+
     }
 }

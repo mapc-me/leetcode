@@ -1,38 +1,19 @@
 package bst;
 
-import com.sun.source.tree.Tree;
+import leetcodestructures.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
 public class P95 {
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
-
     public static void main(String[] args) {
         generateTrees(4);
     }
 
 
     public static List<TreeNode> generateTrees(int n) {
-        List<TreeNode>[] function = new List[n + 1];
+        List<TreeNode>[] function = new List<>[n + 1];
         for (int i = 0; i < function.length; i++) {
             function[i] = new ArrayList<>();
         }

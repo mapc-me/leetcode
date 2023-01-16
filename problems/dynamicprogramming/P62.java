@@ -2,7 +2,7 @@ package dynamicprogramming;
 
 public class P62 {
 
-    class Solution {
+    static class Solution {
         public int uniquePaths(int m, int n) {
             int[][] dp = new int[n][m];
 
@@ -27,7 +27,7 @@ public class P62 {
         }
     }
 
-    class RecursionSolution {
+    static class RecursionSolution {
         public int uniquePaths(int m, int n) {
             int[][] dp = new int[n][m];
             dp[0][0] = 1;

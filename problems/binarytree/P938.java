@@ -1,5 +1,7 @@
 package binarytree;
 
+import leetcodestructures.TreeNode;
+
 public class P938 {
     public int rangeSumBST(TreeNode root, int low, int high) {
         if (root == null) {
