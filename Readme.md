@@ -1,9 +1,9 @@
 ## Leetcode Status
 
 ### 2023 Statistic
-| Month              | Start   | End       | Resolved | Total solved per Month | Total |
-|--------------------|---------|-----------|----------|------------------------|-------|
-
+| Month   | Start     | End       | Resolved | Total solved per Month | Total |
+|---------|-----------|-----------|----------|------------------------|-------|
+| January | 40/108/13 | 49/135/14 | 9/27/1   | 37                     | 198   |
 
 ### 2022 Statistic
 
