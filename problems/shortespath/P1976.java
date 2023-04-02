@@ -1,16 +1,21 @@
 package shortespath;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
+import java.util.Comparator;
 import java.util.List;
-import java.util.Map;
 import java.util.PriorityQueue;
 
-/**
- * Could be optimized. Now it's not fastest.
- */
 public class P1976 {
+
+    static class Pair {
+        int node;
+        long time;
+
+        public Pair(int node, long time) {
+            this.node = node;
+            this.time = time;
+        }
+    }
 
     public static void main(String[] args) {
         int[][] arr =
@@ -22,9 +27,9 @@ public class P1976 {
     public static int countPaths(int n, int[][] roads) {
         int finish = n - 1;
 
-        List<Map<Integer, Integer>> graph = new ArrayList<>();
+        List<List<Pair>> graph = new ArrayList<>();
         for (int i = 0; i < n; i++) {
-            graph.add(new HashMap<>());
+            graph.add(new ArrayList<>());
         }
 
         for (int[] road : roads) {
@@ -32,39 +37,38 @@ public class P1976 {
             int v = road[1];
             int time = road[2];
 
-            graph.get(u).put(v, time);
-            graph.get(v).put(u, time);
+            graph.get(u).add(new Pair(v, time));
+            graph.get(v).add(new Pair(u, time));
         }
 
-        int[] path = new int[n];
-        PriorityQueue<int[]> heap = new PriorityQueue<int[]>((a, b) -> a[1] - b[1]);
+        long[] path = new long[n];
+        PriorityQueue<Pair> heap = new PriorityQueue<>(Comparator.comparingLong(a -> a.time));
 
-        heap.add(new int[] { 0, 0 });
+        heap.add(new Pair(0, 0));
 
         long modulo = 1_000_000_007;
         long[] dp = new long[n];
-        Arrays.fill(dp, -1);
-        Arrays.fill(path, -1);
         dp[0] = 1;
         path[0] = 0;
 
         while (!heap.isEmpty()) {
-            int[] arr = heap.poll();
-            int node = arr[0];
-            int p = arr[1];
+            Pair pair = heap.poll();
 
-            if (p > path[node]) {
+            int node = pair.node;
+            if (pair.time > path[node]) {
                 continue;
             }
 
-            for (Integer v : graph.get(node).keySet()) {
-                int value = path[node] + graph.get(node).get(v);
-                if (value < path[v] || path[v] == -1) {
-                    path[v] = value;
-                    dp[v] = dp[node];
-                    heap.offer(new int[] { v, path[v] });
-                } else if (value == path[v]) {
-                    dp[v] = (dp[v] + dp[node]) % modulo;
+            for (Pair v : graph.get(node)) {
+                int vertex = v.node;
+                long time = v.time;
+                long value = path[node] + time;
+                if (value < path[vertex] || path[vertex] == 0) {
+                    path[vertex] = value;
+                    dp[vertex] = dp[node];
+                    heap.offer(new Pair(vertex, path[vertex]));
+                } else if (value == path[vertex]) {
+                    dp[vertex] = (dp[vertex] + dp[node]) % modulo;
                 }
             }
         }
