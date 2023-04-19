@@ -6,16 +6,16 @@
 - Binary Search
 - Sliding Windows
 - Two Pointers
+- Backtracking (permutations)
 
 
 ### Pool
 - Trie
-- Heap, 2 Heaps
+- Heap, Two Heaps
 - Fast/Slow Pointer
 - Monotonic Queue, Stack
 - Greedy
 - DP
-- BackTracking
 - Recursion
 - K-way merge
 - Topological Sort
