@@ -15,6 +15,7 @@
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) `[M]`                                  | Solved fast without problem. But there is more optimal solution            |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) `[M]`                                                            | Solved fast without problem. Similar 542                                   |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) `[M]`                                                        | Solved fast without problem by two ways                                    |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/description/) `[M]`                                                            | Could not come up with idea                                                |
 
 
 ### Notes
@@ -24,3 +25,4 @@
 - Topological Sort recall a theory
 - Sliding windows is ok. I can detect (medium) fast and implement
 - More graph, trees tasks like (133. Clone Graph) should be solved 
+- Design data structure tasks
