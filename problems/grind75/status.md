@@ -1,4 +1,4 @@
-### Week 1
+## Week 1
 
 | Task                                                                                                                                    | Comment                                                                    |
 |-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -19,6 +19,32 @@
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) `[M]`                                      | Could not come up with idea                                                |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) `[M]`                                | Solved, but spent a lot of time. Do not like this type of tasks            |
 
+
+### Results
+| Total | Solved count | Unsolved count                                                       | Unsolved tasks                                                              |
+|-------|--------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 18    | 16           | 2                                                                    | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) `[M]` |
+|       |              | [322. Coin Change](https://leetcode.com/problems/coin-change/) `[M]` |
+
+## Week 2
+
+
+| Task                                                                                                                         | Comment                  |
+|------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| [75. Sort Colors](https://leetcode.com/problems/sort-colors/) `[M]`                                                          | Fast without problem     |
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) `[M]`                                                      | Fast without problem     |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `[M]`                                                  | Fast without problem     |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `[M]` | Solved. But it took time |
+| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `[M]`                         | Fast without problem     |
+
+### Results
+| Solved count | Unsolved count | Unsolved tasks |
+|--------------|----------------|----------------|
+|              |                |                |
+
+
+---
+
 ### Notes
 
 - Kadane's algorithm
@@ -28,25 +54,20 @@
 - Sliding windows is ok. I can detect (medium) fast and implement
 - More graph, trees tasks like (133. Clone Graph) should be solved
 - Design data structure tasks
-- Dynamic programming. Bottom-up and top-down 
+- Dynamic programming. Bottom-up and top-down
 - Backtracking
 
 ### Tasks I could not solve or solved with the problems
 
-| Task                                                                                                     |
-|----------------------------------------------------------------------------------------------------------|
-| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray) `[M]`                             |
-| [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) `[M]`                                         | 
-| [133. Clone Graph](https://leetcode.com/problems/clone-graph/) `[M]`                                     | 
-| [155. Min Stack](https://leetcode.com/problems/min-stack) `[M]`                                          | 
-| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) `[M]`       |
-| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) `[M]` |
-| [322. Coin Change](https://leetcode.com/problems/coin-change/) `[M]`                                     |
-| [39. Combination Sum](https://leetcode.com/problems/combination-sum/) `[M]`                              |
+| Task                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------|
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray) `[M]`                                                 |
+| [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) `[M]`                                                             | 
+| [133. Clone Graph](https://leetcode.com/problems/clone-graph/) `[M]`                                                         | 
+| [155. Min Stack](https://leetcode.com/problems/min-stack) `[M]`                                                              | 
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) `[M]`                           |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) `[M]`                     |
+| [322. Coin Change](https://leetcode.com/problems/coin-change/) `[M]`                                                         |
+| [39. Combination Sum](https://leetcode.com/problems/combination-sum/) `[M]`                                                  |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `[M]` |
 
-
-### Results
-| Solved count | Unsolved count | Unsolved tasks                                                              |
-|--------------|----------------|-----------------------------------------------------------------------------|
-| 16           | 2              | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) `[M]` |
-|              |                | [322. Coin Change](https://leetcode.com/problems/coin-change/) `[M]`        |
