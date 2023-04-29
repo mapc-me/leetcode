@@ -36,6 +36,8 @@
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `[M]`                                                  | Fast without problem     |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `[M]` | Solved. But it took time |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `[M]`                         | Fast without problem     |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) `[M]`                       | DP. Could not solve      |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) `[H]`                            | Ok. No problem.          |
 
 ### Results
 | Solved count | Unsolved count | Unsolved tasks |
@@ -55,7 +57,7 @@
 - More graph, trees tasks like (133. Clone Graph) should be solved
 - Design data structure tasks
 - Dynamic programming. Bottom-up and top-down
-- Backtracking
+- Backtracking (Permutations, subsets, etc)
 
 ### Tasks I could not solve or solved with the problems
 
@@ -70,4 +72,5 @@
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) `[M]`                                                         |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) `[M]`                                                  |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `[M]` |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) `[M]`                       |
 
