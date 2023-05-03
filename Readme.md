@@ -1,11 +1,12 @@
 ## Leetcode Status
 
 ### 2023 Statistic
-| Month   | Start     | End       | Resolved | Total solved per Month | Total |
-|---------|-----------|-----------|----------|------------------------|-------|
-| January | 40/108/13 | 49/135/14 | 9/27/1   | 37                     | 198   |
-| March   | 49/135/14 | 51/143/15 | 2/8/1    | 11                     | 209   |
-| April   | 51/143/15 |           |          |                        |       |
+| Month   | Start      | End       | Resolved | Total solved per Month | Total | Comment                                       |
+|---------|------------|-----------|----------|------------------------|-------|-----------------------------------------------|
+| January | 40/108/13  | 49/135/14 | 9/27/1   | 37                     | 198   |
+| March   | 49/135/14  | 51/143/15 | 2/8/1    | 11                     | 209   |
+| April   | 51/143/15  | 53/161/15 | 2/18/0   | 20                     | 229   | Mostly solved tasks which were already solved |
+| May     | 53/161/15  |           |          |                        |       |
 
 ### 2022 Statistic
 
