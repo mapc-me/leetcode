@@ -1,10 +1,10 @@
 ### Part 2
 - [X] [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `[E]`
-- [ ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `[E]`
-- [ ] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) `[E]`
-- [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) `[M]`
-- [ ] [198. House Robber](https://leetcode.com/problems/house-robber/) `[M]`
-- [ ] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) `[M]`
+- [X] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `[E]`
+- [X] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) `[E]`
+- [X] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) `[M]`
+- [X] [198. House Robber](https://leetcode.com/problems/house-robber/) `[M]`
+- [X] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) `[M]`
 - [ ] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `[E]`
 - [ ] [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) `[M]`
 - [ ] [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) `[M]`
@@ -25,7 +25,7 @@
 - [ ] [343. Integer Break](https://leetcode.com/problems/integer-break/) `[M]`
 - [ ] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) `[M]`
 - [ ] [139. Word Break](https://leetcode.com/problems/word-break/) `[M]`
-- [ ] [329. Longest Increasing Path in a Matrix](Longest Increasing Path in a Matrix) `[H]`
+- [ ] [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) `[H]`
 - [ ] [62. Unique Paths](https://leetcode.com/problems/unique-paths/) `[M]`
 - [ ] [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) `[M]`
 - [ ] [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) `[M]`
