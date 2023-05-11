@@ -5,7 +5,8 @@
 - [X] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) `[M]`
 - [X] [198. House Robber](https://leetcode.com/problems/house-robber/) `[M]`
 - [X] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) `[M]`
-- [ ] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `[E]`
+- [ ] [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn) `[M]`
+- [X] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `[E]`
 - [ ] [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) `[M]`
 - [ ] [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) `[M]`
 - [ ] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) `[M]`
@@ -50,3 +51,12 @@ Ultimate:
 - [ ] Shortest Distance to Target Color
 - [ ] Factor Combinations
 - [ ] Bomb Enemy
+
+
+### Tasks I could not solve or solved with the problems
+
+| Task                                                                                                                                                  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn) `[M]`                                                                           |
+| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) `[M]` |
+| [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) `[M]`              |

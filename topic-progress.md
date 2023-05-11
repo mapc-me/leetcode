@@ -77,8 +77,14 @@
     - [X] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) `[M]`
     - [X] [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [ ] K-way merge
-    - [ ] [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `[H]`
-    - [ ] [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+    - [X] [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `[H]`
+    - [X] [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) `[H]`
+    - [X] [786. K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) `[M]`
+    - [X] [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) `[M]`
+    - [X] [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) `[M]`
+    - [X] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) `[M]`
+    - [X] [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) `[H]` (TLE, BS approach accepted)
+    - [X] [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) `[M]` (TLE, BS approach accepted)
 - [X] Intervals problems
     - [ ] **Premium** [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) `[M]`
     - [ ] **Premium** [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) `[E]`
