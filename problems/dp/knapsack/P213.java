@@ -1,4 +1,4 @@
-package dp.knapsnack;
+package dp.knapsack;
 
 public class P213 {
     public int rob(int[] nums) {

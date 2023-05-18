@@ -1,4 +1,4 @@
-package dp.knapsnack;
+package dp.knapsack;
 
 /**
  * More Math than DP

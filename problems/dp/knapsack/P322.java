@@ -1,4 +1,4 @@
-package dp.knapsnack;
+package dp.knapsack;
 
 import java.util.Arrays;
 

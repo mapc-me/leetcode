@@ -31,3 +31,10 @@
 - Bellman-Ford
 - Binary search trees, BST sort
 - AVL trees, AVL sort
+
+
+Ideas
+
+- DP
+- Sort
+- 
