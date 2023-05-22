@@ -28,3 +28,5 @@
 
 - [X] [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 - [X] [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)
+- [X] [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [X] [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
