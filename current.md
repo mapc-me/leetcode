@@ -7,7 +7,8 @@
 - Sliding Windows
 - Two Pointers
 - Backtracking (permutations)
-
+- K-way merge
+- DP
 
 ### Pool
 - Trie
@@ -15,9 +16,7 @@
 - Fast/Slow Pointer
 - Monotonic Queue, Stack
 - Greedy
-- DP
 - Recursion
-- K-way merge
 - Topological Sort
 - Bit operations
 - Sort
@@ -26,7 +25,7 @@
 - Top K elements
 - Intervals
 - Parentheses
-- Numbers theory
+
 - Maximum Flow and Minimum Cut
 - Bellman-Ford
 - Binary search trees, BST sort
@@ -35,6 +34,13 @@
 
 Ideas
 
-- DP
 - Sort
-- 
+
+
+Themes should be learnt:
+- Sort
+- Backtracking (permutations)
+- Bit operations
+- Numbers theory
+- Monotonic Queue, Stack
+- Rabin-Karp

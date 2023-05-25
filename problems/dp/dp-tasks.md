@@ -1,10 +1,10 @@
 ### Knapsack
 
 - [X] [2291. Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/)
-- [X] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [X] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) `[H]`
+- [ ] [494. Target Sum](https://leetcode.com/problems/target-sum/)
 - [ ] [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [ ] [2035. Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
-- [ ] [494. Target Sum](https://leetcode.com/problems/target-sum/)
 - [ ] [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 - [ ] [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
 - [ ] [1449. Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)
